@@ -1,0 +1,7 @@
+/coverage/*
+/cyprus/*
+/docs/*
+/dist/*
+/node_modules/*
+/sandbox/*
+/tests/*

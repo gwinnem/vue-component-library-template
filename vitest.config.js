@@ -17,7 +17,7 @@ export default defineConfig({
       enabled: true,
       provider: 'v8',
       reporter: ['text', 'json', 'html'],
-      reportsDirectory: './tests/coverage',
+      reportsDirectory: './tests/coverage'
     },
   },
 });
